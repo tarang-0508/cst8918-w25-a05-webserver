@@ -1,0 +1,15 @@
+# Ignore Terraform executable
+Terraform/terraform.exe
+
+# Ignore Terraform plugins and state
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Ignore override files and crash logs
+override.tf
+override.tf.json
+crash.log
+
+# Ignore local environment files
+*.tfvars
