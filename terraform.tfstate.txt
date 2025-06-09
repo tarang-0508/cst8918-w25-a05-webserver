@@ -1,0 +1,3 @@
+location       = "eastus"
+admin_username = "azureuser"
+ssh_public_key = "C:/Users/taran/.ssh/id_rsa.pub"
